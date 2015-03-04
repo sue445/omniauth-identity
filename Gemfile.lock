@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     omniauth-identity (1.1.1)
+      activesupport (>= 3.1)
       bcrypt-ruby (~> 3.0)
       omniauth (~> 1.0)
 
